@@ -32,7 +32,6 @@ public class GeneratorSqlmap {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		
-	}
 
+	}
 }
